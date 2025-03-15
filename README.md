@@ -39,7 +39,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Leonardo/Leonardo/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Leozinnzz/Leozinnzz/output/snake.svg" alt="Snake animation" />
 
 
 ###
