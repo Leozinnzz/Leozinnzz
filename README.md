@@ -32,6 +32,8 @@
 
 ###
 
+<p align="left">📱 Contact with Me</p>
+
 <div align="left">
   <a href="https://www.instagram.com/leozinn_m_melo/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -42,6 +44,8 @@
 </div>
 
 ###
+
+<p align="left">📅 Activity Stats</p>
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Leonardo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=chartreuse-dark&locale=en&hide_border=false&order=1" height="140" alt="stats graph"  />
