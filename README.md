@@ -1,8 +1,11 @@
-<h2 align="left">Hello there, I'm Leonardo 👋<br>I Always ready to tackle new challenges and expand my knowledge in technology.</h2>
+
+<img src="https://github.com/BEPb/BEPb/blob/main/src/header_.png?raw=true">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=OI&pause=1000&color=C16A75&center=true&vCenter=true&random=false&width=375&lines=Hello+There!+I'm+Leonardo+welcome!;And+I'm+Java+Back-End+Developer;Nice+to+meet+you!;I+Always+learning+about+programation)](https://git.io/typing-svg)
 
 ###
 
-<p align="left">⚡ Most Used Skills
+<p align="left">🌐 Tech-Skils ☕
 
 </p>
 
@@ -15,24 +18,27 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?logo=eclipseide&logoColor=white&style=for-the-badge" height="40" alt="eclipseide logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="40" alt="vscode logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="40" alt="mongodb logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/css3/1572B6" height="40" alt="css3 logo"  />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=black&style=for-the-badge" height="40" alt="postman logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="40" alt="postgresql logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo"  />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="40" alt="postgresql logo"  />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="40" alt="github logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="40" alt="css3 logo"  />
+  
 </div>
 
 ###
 
-<p align="left">📱 Contact with Me</p>
+<p align="left">📱 Contact with Me 📬</p>
 
 <div align="left">
   <a href="https://www.instagram.com/leozinn_m_melo/" target="_blank">
@@ -41,16 +47,23 @@
   <a href="https://www.linkedin.com/in/leonardo-magalhães-melo/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
+  <a href="mailto:leozerathelegend@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+  </a>
+  <a href="https://wa.me/5538998832899" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"/>
+  </a>
 </div>
 
 ###
 
-<p align="left">📅 Activity Stats</p>
+<p align="left"> 📊 Activity-Stats 📈</p>
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Leozinnzz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=chartreuse-dark&locale=en&hide_border=false&order=1" height="120" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Leozinnzz&locale=en&mode=daily&theme=chartreuse-dark&hide_border=false&border_radius=5&order=3" height="120" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Leozinnzz&radius=16&theme=chartreuse-dark&area=true&order=5&hide_title=false" height="300" alt="activity-graph graph"  />
+  <img height="100%" src="https://github-readme-stats.vercel.app/api?username=Leozinnzz&show_icons=true&theme=catppuccin_mocha&include_all_commits=true&count_private=true&border_radius=10"/>
+  <img height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leozinnzz&layout=compact&langs_count=7&theme=catppuccin_mocha&border_radius=10&hide=javascript,html,css"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Leozinnzz&theme=material-palenight&radius=16" />
+
 </div>
 
 ###
