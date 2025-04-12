@@ -1,7 +1,7 @@
 
 <img src="https://github.com/BEPb/BEPb/blob/main/src/header_.png?raw=true">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=OI&pause=1000&color=C16A75&center=true&vCenter=true&random=false&width=485&lines=Hello+There!+I'm+Leonardo,+nice+to+meet+you!;Welcome+to+my+profile!;I'm+Java+Back-End+Developer;Always+learning+new+things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=OI&pause=1000&color=C16A75&center=true&vCenter=true&random=false&width=490&lines=Hello+There!+I'm+Leonardo,+nice+to+meet+you!;Welcome+to+my+profile!;I'm+Java+Back-End+Developer;Always+learning+new+things)](https://git.io/typing-svg)
 
 ###
 
