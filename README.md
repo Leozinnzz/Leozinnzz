@@ -73,9 +73,6 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Leozinnzz/Leozinnzz/output/pacman-contribution-graph.svg">
 </picture>
 
-## 🐍 Snake eating my contributions
-![snake gif](https://github.com/SEU_USUARIO/SEU_USUARIO/blob/output/github-snake.svg)
-
 
 ###
 
