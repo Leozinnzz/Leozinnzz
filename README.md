@@ -1,18 +1,36 @@
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1200">
+<br><br>
   
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 
 
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1200">
+<br><br>
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="200">
 <br><br>
 </div>
 
-<h1 align="center">hey there 👋</h1>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1200">
+<br><br>
 
-<h2 align="left">👩‍💻  About Me</h2> <div align="center"> <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  /></div>
+<h1 align="center">👋 Heloo There!, eu sou o Leonardo </h1> 
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1200">
+<br><br>
+<div align="center">
+  <p> 🎓 Estudante de Bacharelado em Sistemas de Informação <p/>
+</div>
 
 
- 
+
+  
+<h2 align="center"> Tech Skils <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="50" align="center"> 
+</h2>  
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1200">
+<br><br>
 
 
 
@@ -49,13 +67,17 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aarch64/aarch64-original.svg" height="60" alt="aarch64 logo"  />
 </div>
-  
-  
-</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1200">
+<br><br>
 
 ###
 
-<p align="left">📱 Contact with Me 📬</p>
+
+<div align="left">
+  <h2>Contact with Me<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="100">
+  <br><br> <h2/> 
+<div/>
 
 <div align="left">
   <a href="https://www.instagram.com/leozinn_m_melo/" target="_blank">
@@ -80,8 +102,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Leozinnzz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=great-gatsby&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=Leozinnzz&locale=en&mode=daily&theme=great-gatsby&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=Leozinnzz&theme=juicyfresh" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Leozinnzz&theme=elegant" height="150" alt="activity-graph graph"  />
-</div>
+
 
 
 ###
