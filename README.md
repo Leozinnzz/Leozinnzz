@@ -24,7 +24,7 @@
 <div align="center">
   <p> 🎓 Estudante de Bacharelado em Sistemas de Informação <p/>
   <p> 📚 Tenho um pouco de conhecimento em Java e estou sempre evoluindo <p/>
-  <p> 🚀 Sempre em ocnstante aprendizado! <p/>
+  <p> 🚀 Sempre em constante aprendizado! <p/>
 </div>
 
 
